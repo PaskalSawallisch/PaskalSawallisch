@@ -8,7 +8,7 @@ Motivation, Interesse und der Wunsch, mich beständig weiterzuentwickeln, treibe
 
 * 🌍  I'm based in Kärnten, Österreich
 * 🚀  I'm currently working on [Devine Serpants (Visual Novel Unity) Brute Force Project (Password Generator by Majorly Mad Monkeys,)]
-* 🧠  I'm learning More about C#
+* 🧠  I'm learning More about C#,FTP, IMAP, POP3, SMTP, SSH;
 
 ### Skills
 
