@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Software Developer
 -------------------------
 
-Motivation, Interesse und der Wunsch, mich beständig weiterzuentwickeln, treiben mich an! Ich bringe erste Erfahrungen in C#, Sql und Lsl mit - meine Grundkenntnisse in der Programmierung habe ich durch private Projekte erworben und durfte sie auch bereits in Rahmen eines Praktikums und einem Übungsprojekt festigen. Ich stehe für einen Jobeinstieg genauso wie für eine Lehrstelle als Applikationsentwickler zur Verfügung und freue mich darauf, meine Leidenschaft für die IT zu vertiefen und meine Fähigkeiten und Kenntnisse weiter zu entwickeln Genutzte Programme: Canva, Mirro, Plane, Figma;
+Motivation, Interesse und der Wunsch, mich beständig weiterzuentwickeln, treiben mich an! Ich bringe erste Erfahrungen in C#, Sql und Lsl mit - meine Grundkenntnisse in der Programmierung habe ich durch private Projekte erworben und durfte sie auch bereits in Rahmen eines Praktikums und einem Übungsprojekt festigen. Ich stehe für einen Jobeinstieg genauso wie für eine Lehrstelle als Applikationsentwickler zur Verfügung und freue mich darauf, meine Leidenschaft für die IT zu vertiefen und meine Fähigkeiten und Kenntnisse weiter zu entwickeln.
 
 * 🌍  I'm based in Kärnten, Österreich
 * 🚀  I'm currently working on [Devine Serpants (Visual Novel Unity) Brute Force Project (Password Generator by Majorly Mad Monkeys,)]
 * 🧠  I'm learning More about C#,FTP, IMAP, POP3, SMTP, SSH;
-
+* 🧠  Used Programms Canvas,Figma,Plane,Miro,Github,Visual Studio, Unity, Blender;
 ### Skills
 
 
